@@ -36,7 +36,7 @@ public class ExceptionHandlerController {
     return new ResponseEntity<>(dto, HttpStatus.BAD_REQUEST);
   }
 
-
+}
 /*
 package br.com.rocketseat.gestao_vagas.exceptions;
 
